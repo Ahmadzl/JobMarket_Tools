@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+plotly
+matplotlib
+beautifulsoup4
+PyMuPDF
+spacy
+transformers
+sentence-transformers
